@@ -56,7 +56,7 @@ QWEN был использован для создания системного 
 ### Примеры работы бота
 
 #### 1. Запись на шиномонтаж
-![Запись на ремонт](attachment:calendar_screenshot.png)
+![Запись на ремонт](C:\Users\Татьяна\Pictures\Screenshots\Запись в Google календарь.png)
 
 **Разговор с клиентом:**
 ![Пример диалога о шиномонтаже](attachment:dialog_shinomontazh.png)
