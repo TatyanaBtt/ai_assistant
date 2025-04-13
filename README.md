@@ -62,7 +62,7 @@ QWEN был использован для создания системного 
 ![Пример диалога о шиномонтаже](https://github.com/TatyanaBtt/ai_assistant/blob/main/%D0%A0%D0%B0%D0%B7%D0%B2%D0%B5%D1%80%D0%BD%D1%83%D1%82%D1%8B%D0%B9%20%D0%B4%D0%B8%D0%B0%D0%BB%D0%BE%D0%B3.png?raw=true)
 
 #### 2. Консультация по техническому обслуживанию
-![Пример диалога о ТО](attachment:dialog_to.png)
+![Пример диалога о ТО](https://github.com/TatyanaBtt/ai_assistant/blob/main/%D0%A0%D0%B0%D0%B7%D0%B2%D0%B5%D1%80%D0%BD%D1%83%D1%82%D1%8B%D0%B9%20%D0%B4%D0%B8%D0%B0%D0%BB%D0%BE%D0%B3.png?raw=true)
 
 ### Преимущества проекта
 1. **Автоматизация процесса записи:** Клиенты могут самостоятельно записываться на услуги без участия операторов.
