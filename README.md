@@ -59,7 +59,7 @@ QWEN был использован для создания системного 
 ![Запись на ремонт](C:\Users\Татьяна\Pictures\Screenshots\Запись в Google календарь.png)
 
 **Разговор с клиентом:**
-![Пример диалога о шиномонтаже](https://github.com/TatyanaBtt/ai_assistant/blob/main/%D0%A0%D0%B0%D0%B7%D0%B2%D0%B5%D1%80%D0%BD%D1%83%D1%82%D1%8B%D0%B9%20%D0%B4%D0%B8%D0%B0%D0%BB%D0%BE%D0%B3.png?raw=true)
+![Запись клиента в Google клендарь](https://github.com/TatyanaBtt/ai_assistant/blob/main/%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C%20%D0%B2%20Google%20%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C.png?raw=true)
 
 #### 2. Консультация по техническому обслуживанию
 ![Пример диалога о ТО](https://github.com/TatyanaBtt/ai_assistant/blob/main/%D0%A0%D0%B0%D0%B7%D0%B2%D0%B5%D1%80%D0%BD%D1%83%D1%82%D1%8B%D0%B9%20%D0%B4%D0%B8%D0%B0%D0%BB%D0%BE%D0%B3.png?raw=true)
